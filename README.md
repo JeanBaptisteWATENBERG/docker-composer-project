@@ -13,7 +13,7 @@ These two commands have been added to the executable file add-server which
 ## Installation / Usage
 
 
-	$ git clone 
+	$ git clone git@github.com:JeanBaptisteWATENBERG/docker-composer-project.git
 	$ docker build -t docker-composer-project
 	$ cd docker-composer-project
 	$ sudo chmod +x add-server.sh
